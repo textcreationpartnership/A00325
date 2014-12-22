@@ -36,11 +36,187 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Familiarium colloquiorum formulae. Et alia quedam per Erasmu[m] recognitaColloquia. SelectionsErasmu
+
 #####Body#####
 
+1. ¶Erasmus Raterodamus studiose iuuentuti S. P. D.
+
+1. ¶Colloquuntur autem in hoc libello Christianus. Augustinꝰ poeta. Petrꝰ puer. Erasmꝰ. Theodoricus. Midas. Hospites.
+
+    _ ¶Absentibus hoc pacto salutē: aut mādamus aut precamur. formula secunda.
+
+    _ ¶Annuentis formula.
+
+    _ ¶Alia salutandi formula.
+
+    _ ¶Ualetudinis for.
+
+    _ ¶Responsoria.
+
+    _ ¶Alia de valetudine rogādi formula.
+
+    _ ¶Responsoria.
+
+    _ ¶Libens audio. For.
+
+    _ ¶De statu percontādi: formule.
+
+    _ Responsoria.
+
+    _ ¶Respon. Sic dijs visum est.
+
+    _ Responsoria. Nihil ago for.
+
+    _ ¶Impedio te. For.
+
+    _ ¶Responsoria.
+
+    _ ¶Studes cōtinue. For.
+
+    _ ¶Irrides me. For.
+
+    _ ¶Rem ipsam dico. For.
+
+    _ Cur non visis nos. For.
+
+    _ ¶Non licuit. For.
+
+    _ ¶Ago gratias ꝙ lr̄as ad me dederis. For.
+
+    _ Noua rogandi. For.
+
+    _ Responsoria.
+
+    _ ¶An accepisti litteras. For.
+
+    _ Respon.
+
+    _ ¶Credo. For.
+
+    _ Ad quid littere vacue. For.
+
+    _ Respon. vtilitatis. For.
+
+    _ ¶Ut valent amici.
+
+    _ ¶Respon.
+
+    _ ¶Bene esse illi precor. For.
+
+    _ ¶Responso.
+
+    _ ¶Noua omnia. For.
+
+    _ Non credo. For.
+
+    _ Responsoria.
+
+    _ ¶Nomina affinitatum.
+
+    _ ¶Cras prandeas. For.
+
+    _ Domi me esse oportet. For.
+
+    _ ¶Nō possum promittere. For.
+
+    _ ¶Diem dicere debes. For.
+
+    _ ¶Nolo te prescire. For.
+
+    _ ¶Prescire volo. For.
+
+    _ ¶Tuo malo optas hoc. For.
+
+    _ ¶Ea lege promitto. For.
+
+    _ ¶Quo is. For.
+
+    _ ¶Eo domū. For.
+
+    _ ¶Cōmendandi. For.
+
+    _ ¶Obsequij. For.
+
+    _ In culpa In causa. In mora.
+
+    _ ¶In culpa.
+
+    _ ¶In causa.
+
+    _ ¶In mora.
+
+    _ ¶Irascor tibi. For.
+
+    _ Qua causa. For.
+
+    _ ¶Quia non curas me. For.
+
+    _ ¶Respon.
+
+    _ ¶Ne fefelleris me. Forma.
+
+    _ Stoici atque Epicurei qui.
+
+    _ Consecratio cene.
+
+    _ ¶Parui refert quo sit colore.
+
+    _ ¶Iudicium de vino rubro & albo.
+
+    _ ¶Rem attigisti. For.
+
+    _ ¶Si cognoscerem quid te oblectet / tibi seruirem. For.
+
+    _ ¶Enigma de gallo.
+
+    _ ¶De conuiuio opiparo et poetico.
+
+    _ Indignū auditu. For.
+
+    _ ¶Uariandi ratio hanc orationem multo mihi constat.
+
+    _ ¶Emendi / estimandique verba.
+
+    _ ¶Uendendi et emendi. For.
+
+    _ Estimandi. For.
+
+    _ ¶Accusandi. For.
+
+1. ¶BREUIS DE COPIA preceptio.
+
+    _ Littere tue magnopere me delectarunt. Littere tue.
+
+    _ Magnopere.
+
+    _ Me.
+
+    _ Delectarunt.
+
+    _ Per afficio.
+
+    _ Muta in passiuum.
+
+    _ Per sum et nomina adiectiua.
+
+    _ Per nomina substantiua.
+
+    _ ¶Cōmuta in negationem.
+
+    _ ¶Modestie causa.
+
+    _ ¶Transcatio est in his.
+
+    _ ¶Comparatio a simili.
+
+    _ ¶Per comparationes.
+
+    _ ¶Preterea ꝑ impossibile aut more Poetico per contraria.
+
 #####Back#####
-Familiarium colloquiorum formulae. Et alia quedam per Erasmu[m] recognitaColloquia. SelectionsErasmu
+
+1. Deser. Erasmi Roterodami / de ratione studij ad amicū quendā: epistola ꝓtreptica.
+
 **Types of content**
 
   * There are 310 **drama** parts! This is **prose drama**.
